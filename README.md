@@ -104,6 +104,8 @@ svm_model.pkl
 
 This allows reuse of the trained model without retraining.
 
+Due to GitHub file size limitations, the trained model file is not included in this repository.
+
 ---
 
 ## 🧪 How to Run
