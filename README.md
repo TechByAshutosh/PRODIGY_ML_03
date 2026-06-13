@@ -127,12 +127,15 @@ python cats_dogs_svm.py
 ```bash
 predict_image("image_location.jpg")
 ```
+---
 
 ## 🏆 Internship Information
 
 Task: Cats vs Dogs Image Classification using SVM
 Internship: Prodigy Infotech Machine Learning Internship
 Task Code: PRODIGY_ML_03
+
+---
 
 ## 🚀 Key Learnings
 
@@ -142,6 +145,8 @@ Supervised learning using SVM
 Model evaluation techniques
 Saving and loading ML models
 
+---
+
 ## 👨‍💻 Author
 
 Ashutosh Agrawal
@@ -149,3 +154,4 @@ B.Tech CSE Student
 Government College of Engineering, Kalahandi
 
 Machine Learning Enthusiast | Aspiring Software Engineer
+---
